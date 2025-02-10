@@ -35,7 +35,7 @@ Os valores que guiam nossa jornada são baseados no mais sagrado **Codex da Rapa
 
 ## Tecnologias Utilizadas
 
-- **Linguagem**: Java 
+- **Linguagem**: Java ![Java Icon](https://user-images.githubusercontent.com/54921185/123251140-dc4c7000-d4b8-11eb-87c6-5ad37c07020e.png)
 - **Bibliotecas**: Java Swing.
 
 
