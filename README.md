@@ -9,7 +9,7 @@
 ## Membros da Equipe
 
 - **Francisco Wérisson**: O Designer de Githubs 
-- **José Matheus**: Especialista oratória
+- **José Matheus**: O Especialista em oratória
 - **João Victor**: O "gênio".
 
 ## Missão
