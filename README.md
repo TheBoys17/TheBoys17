@@ -4,7 +4,7 @@
 
 **Chat Bot** é um projeto ousado desenvolvido com a premissa de *fazer as pessoas perderem tempo* de maneira eficaz. Nosso objetivo? Garantir uma **nota excelente no trabalho de POO** enquanto fazemos todo mundo pensar que estamos trabalhando em algo realmente útil.
 
-![Imagem Triunfal de The Boys](https://static.displate.com/270x380/displate/2024-09-12/f26fbb348f14b9172a771be3067ef751_d2f3ef71322906447c945ddec81ffff4.jpg)
+![Imagem Triunfal de The Boys](https://c4.wallpaperflare.com/wallpaper/211/527/790/homelander-the-boys-series-hd-wallpaper-preview.jpg)
 
 
 ## Membros da Equipe
